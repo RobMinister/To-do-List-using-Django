@@ -5,7 +5,7 @@ Features
 
 - **Task Management:** Add, view, and delete tasks easily.
 - **User Interface:** Responsive and user-friendly design.
-- **Technology:** Built with Django, HTML, CSS.
+- **Technology:** Built with **Django**, **HTML**, **CSS**.
 
 ## Usage
 
