@@ -7,7 +7,7 @@ Features
 - **User Interface:** Responsive and user-friendly design.
 - **Technology:** Built with Django, HTML, CSS.
 
-##Usage
+## Usage
 
 - **Adding Tasks:** Click "Add Task", fill in task details, and submit.
 - **Viewing Tasks:** All tasks are listed chronologically on the homepage.
